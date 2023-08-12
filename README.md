@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MithileshKawalkar
-- 👀 I’m interested in Coding and Web development 
+- 👀 Interested in Coding and Web development 
 - 🌱 I’m currently pursuing B.Tech in Information technology at VJTI, Mumbai.
-- 💞️ I’m looking to collaborate on good Web Development projects.
-- 📫 How to reach me LinkedIn- www.linkedin.com/in/mithilesh-kawalkar
+- 💞️ Looking to collaborate on good Web Development projects.
+- 📫 How to reach me- LinkedIn: www.linkedin.com/in/mithilesh-kawalkar
 
 <!---
 MithileshKawalkar/MithileshKawalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
